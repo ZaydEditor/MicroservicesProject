@@ -59,7 +59,7 @@ This repository contains a **microservices-based application** built using **ASP
 ### 🗃️ Database Fields
 
 - `Id` (int)
-- `ProductId` (GUID)
+- `ProductId` (int)
 - `Quantity` (int)
 - `TotalPrice` (decimal)
 - `CreatedAt` (DateTime)
